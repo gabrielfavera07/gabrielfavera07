@@ -35,9 +35,7 @@
 
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-&nbsp;
+<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
 
 <div align="center">
 
@@ -53,11 +51,7 @@ const gabriel = {
 
 </div>
 
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-&nbsp;
+<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
 
 <div align="center">
 
@@ -105,11 +99,7 @@ const gabriel = {
 
 </div>
 
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-&nbsp;
+<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
 
 <div align="center">
 
@@ -125,14 +115,9 @@ const gabriel = {
 
 <img src="https://streak-stats.demolab.com?user=gabrielfavera07&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888" height="180"/>
 
-
 </div>
 
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-&nbsp;
+<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
 
 <div align="center">
 
@@ -148,11 +133,7 @@ const gabriel = {
 
 </div>
 
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-&nbsp;
+<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
 
 <div align="center">
 
@@ -169,11 +150,7 @@ const gabriel = {
 
 </div>
 
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-&nbsp;
+<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
 
 <div align="center">
 
@@ -201,19 +178,11 @@ const gabriel = {
   <img src="https://img.shields.io/badge/-+55%20(21)%2098254--7599-0d1117?style=for-the-badge&logo=whatsapp&logoColor=ffffff" />
 </a>
 
-&nbsp;
-
 </div>
 
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-&nbsp;
+<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
 
 <div align="center">
-
-&nbsp;
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good%20code%20is%20its%20own%20best%20documentation.&author=Steve%20McConnell"/>
 
@@ -221,8 +190,8 @@ const gabriel = {
 
 <sub>Made with 🖤 by Gabriel Della Fávera</sub>
 
-&nbsp;
-
 </div>
+
+&nbsp;
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:000000&height=120&section=footer"/>
