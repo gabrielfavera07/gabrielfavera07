@@ -1,261 +1,193 @@
 <div align="center">
 
-<!-- CUSTOM GRADIENT HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,50:1a1a4e,100:4c1d95&height=200&section=header&text=&fontSize=0" width="100%"/>
-
-<!-- LOGO/AVATAR AREA WITH GLOW EFFECT -->
-<a href="https://github.com/gabrielfavera07">
-<img src="https://img.shields.io/badge/-%E2%9C%A6-0D0D2B?style=for-the-badge&labelColor=0D0D2B" height="1"/>
-</a>
-
-<!-- MAIN TITLE - ELEGANT TYPING -->
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=300&size=32&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=500&lines=Gabriel+Della+F%C3%A1vera)](https://git.io/typing-svg)
-
-<!-- SUBTITLE -->
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=200&size=16&duration=2000&pause=3000&color=A78BFA&center=true&vCenter=true&width=400&lines=Mobile+Developer+%E2%80%A2+Flutter+Specialist+%E2%80%A2+AI+Enthusiast" alt="Subtitle"/>
-</p>
-
-<!-- ELEGANT DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="45%">
-
-<br><br>
-
-<!-- MINIMAL CONTACT BADGES -->
-<a href="mailto:gabrielfavera@live.com">
-<img src="https://img.shields.io/badge/Email-0D0D2B?style=for-the-badge&logo=gmail&logoColor=F97316&labelColor=0D0D2B"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://wa.me/5521982547599">
-<img src="https://img.shields.io/badge/WhatsApp-0D0D2B?style=for-the-badge&logo=whatsapp&logoColor=F97316&labelColor=0D0D2B"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/">
-<img src="https://img.shields.io/badge/LinkedIn-0D0D2B?style=for-the-badge&logo=linkedin&logoColor=F97316&labelColor=0D0D2B"/>
-</a>
-
-<br><br>
-
-<!-- PROFILE VIEWS - MINIMAL -->
-<img src="https://komarev.com/ghpvc/?username=gabrielfavera07&color=A78BFA&style=flat&label=Profile+Views"/>
-
-</div>
+<!-- HEADER IMAGE - DARK GRADIENT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header&text=&fontSize=0" width="100%"/>
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> &nbsp;Expertise
-
-</div>
+<!-- NAME -->
+# GABRIEL DELLA FÁVERA
 
 <br>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/MOBILE-0D0D2B?style=for-the-badge&logoColor=white" height="25"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="45"/>
-<br><br>
-<sub><b>Flutter • Dart • Firebase</b></sub>
-<br>
-<sub>Cross-Platform iOS & Android</sub>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/AI%20%26%20ML-0D0D2B?style=for-the-badge&logoColor=white" height="25"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark" height="45"/>
-<br><br>
-<sub><b>Python • PyTorch • OpenCV</b></sub>
-<br>
-<sub>Machine Learning & Automation</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/BACKEND-0D0D2B?style=for-the-badge&logoColor=white" height="25"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" height="45"/>
-<br><br>
-<sub><b>Node.js • Express • PostgreSQL</b></sub>
-<br>
-<sub>REST APIs & Databases</sub>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/FRONTEND-0D0D2B?style=for-the-badge&logoColor=white" height="25"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs&theme=dark" height="45"/>
-<br><br>
-<sub><b>React • Vue • Next.js</b></sub>
-<br>
-<sub>Modern Web Development</sub>
-
-</td>
-</tr>
-</table>
-</div>
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Mobile+%26+Desktop+Developer;Flutter+Specialist;AI+Enthusiast;Cross-Platform+Expert)](https://git.io/typing-svg)
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"> &nbsp;Analytics
-
-<br>
-
-<!-- GITHUB STATS - PREMIUM DARK THEME -->
-<a href="https://github.com/gabrielfavera07">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfavera07&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=F97316&text_color=E2E8F0&bg_color=00000000&ring_color=A78BFA&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfavera07&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=E2E8F0&bg_color=00000000"/>
-</a>
-
-<br><br>
-
-<!-- STREAK STATS - MATCHING THEME -->
-<a href="https://github.com/gabrielfavera07">
-<img src="https://streak-stats.demolab.com?user=gabrielfavera07&theme=transparent&hide_border=true&ring=A78BFA&fire=F97316&currStreakLabel=E2E8F0&sideLabels=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=6B7280"/>
-</a>
-
-</div>
+<!-- SOCIAL BADGES -->
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfavera@live.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521982547599)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> &nbsp;Activity
+[![Profile Views](https://komarev.com/ghpvc/?username=gabrielfavera07&color=000000&style=flat-square&label=Views)](https://github.com/gabrielfavera07)
 
 <br>
 
-<!-- ACTIVITY GRAPH - PREMIUM COLORS -->
-<a href="https://github.com/gabrielfavera07">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfavera07&bg_color=00000000&color=A78BFA&line=F97316&point=E2E8F0&area_color=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
-</a>
-
-</div>
+---
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> &nbsp;Experience
-
-<br>
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   ◈  Flutter Developer          Escol Contabilidade      2024 — 2025   │
-│      Cross-Platform Mobile & Backend Development                        │
-│                                                                         │
-│   ◈  Flutter Front-End          Panda Apps               2021 — 2022   │
-│      Mobile UI Development from Figma/XD                                │
-│                                                                         │
-│   ◈  IT Support Analyst         SEPLAG RJ                2024          │
-│      Automation & Process Optimization                                  │
-│                                                                         │
-│   ◈  Python/Node Developer      Oliver's Pizza           2022          │
-│      Internal Tools & Automation                                        │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+<!-- ABOUT -->
+```js
+const gabriel = {
+    location: "Rio de Janeiro, Brazil 🇧🇷",
+    available: "Open to Portugal 🇵🇹",
+    focus: ["Mobile", "Desktop", "AI", "Automation"],
+    stack: ["Flutter", "Dart", "Python", "Node.js"]
+};
 ```
 
-</div>
+<br>
+
+---
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="20"> &nbsp;Currently
+<!-- EXPERTISE -->
+## EXPERTISE
 
 <br>
 
 <table>
 <tr>
-<td>
-
-**🔭 Working on** &nbsp;&nbsp;Flutter apps with AI integration
-
+<td align="center" width="33%">
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="50"/>
+<br><br>
+<b>MOBILE & DESKTOP</b>
+<br>
+<sub>Cross-Platform Development</sub>
+<br><br>
 </td>
-</tr>
-<tr>
-<td>
-
-**🌱 Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced ML with PyTorch
-
+<td align="center" width="33%">
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgres&theme=dark" height="50"/>
+<br><br>
+<b>BACKEND</b>
+<br>
+<sub>APIs & Databases</sub>
+<br><br>
 </td>
-</tr>
-<tr>
-<td>
-
-**🎯 Goal** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build innovative mobile solutions
-
-</td>
-</tr>
-<tr>
-<td>
-
-**📍 Location** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rio de Janeiro, Brazil → Open to Portugal 🇵🇹
-
+<td align="center" width="33%">
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,python&theme=dark" height="50"/>
+<br><br>
+<b>AI & ML</b>
+<br>
+<sub>Machine Learning</sub>
+<br><br>
 </td>
 </tr>
 </table>
 
-</div>
+<br>
+
+---
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- STATS -->
+## ANALYTICS
 
-<div align="center">
+<br>
 
-<!-- ELEGANT DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielfavera07&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfavera07&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" height="165"/>
 
 <br><br>
 
-<!-- SNAKE ANIMATION - DARK THEME -->
+<img src="https://streak-stats.demolab.com?user=gabrielfavera07&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&dates=888888" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfavera07&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true" width="95%"/>
+
+<br>
+
+---
+
+<br>
+
+<!-- TECH STACK -->
+## TECHNOLOGIES
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,nodejs,express,nestjs,python,pytorch,opencv&theme=dark" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,postgres,git,vscode,figma,linux,docker&theme=dark" />
+
+<br>
+
+---
+
+<br>
+
+<!-- EXPERIENCE -->
+## EXPERIENCE
+
+<br>
+
+| Period | Role | Company |
+|:------:|:-----|:--------|
+| **2024 — 2025** | Flutter Developer | Escol Contabilidade |
+| **2021 — 2022** | Flutter Front-End | Panda Apps |
+| **2024** | IT Support Analyst | SEPLAG RJ |
+| **2022** | Python/Node Developer | Oliver's Pizza |
+
+<br>
+
+---
+
+<br>
+
+<!-- SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake-dark.svg" />
 </picture>
 
+<br>
+
+---
+
+<br>
+
+<!-- CONTACT -->
+## CONTACT
+
+<br>
+
+📍 **Rio de Janeiro, Brazil** · Available for **Portugal** 🇵🇹
+
+<br>
+
+**Full-time · Part-time · Remote**
+
+<br>
+
+[![Email](https://img.shields.io/badge/gabrielfavera@live.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielfavera@live.com)
+[![WhatsApp](https://img.shields.io/badge/+55_(21)_98254--7599-000000?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521982547599)
+
 <br><br>
 
-<!-- FOOTER QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic.&author=Gabriel%20Della%20F%C3%A1vera" width="70%"/>
+---
+
+<br>
+
+<sub>*"Good code is its own best documentation."*</sub>
 
 <br><br>
 
-<!-- MINIMAL FOOTER -->
-<sub>
-<img src="https://img.shields.io/badge/Made%20with-☕%20%26%20💜-0D0D2B?style=flat&labelColor=0D0D2B"/>
-</sub>
-
-<br><br>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!-- GRADIENT FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1a1a4e,100:0D0D2B&height=120&section=footer" width="100%"/>
