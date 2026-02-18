@@ -1,196 +1,261 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
+<!-- CUSTOM GRADIENT HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,50:1a1a4e,100:4c1d95&height=200&section=header&text=&fontSize=0" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Della+F%C3%A1vera+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Cross-Platform+iOS+%26+Android;Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Python+%7C+Node.js+%7C+Dart)](https://git.io/typing-svg)
+<!-- LOGO/AVATAR AREA WITH GLOW EFFECT -->
+<a href="https://github.com/gabrielfavera07">
+<img src="https://img.shields.io/badge/-%E2%9C%A6-0D0D2B?style=for-the-badge&labelColor=0D0D2B" height="1"/>
+</a>
 
-<!-- SOCIAL BADGES -->
+<!-- MAIN TITLE - ELEGANT TYPING -->
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=300&size=32&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=500&lines=Gabriel+Della+F%C3%A1vera)](https://git.io/typing-svg)
+
+<!-- SUBTITLE -->
 <p>
-<a href="mailto:gabrielfavera@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/gabrielfavera07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=200&size=16&duration=2000&pause=3000&color=A78BFA&center=true&vCenter=true&width=400&lines=Mobile+Developer+%E2%80%A2+Flutter+Specialist+%E2%80%A2+AI+Enthusiast" alt="Subtitle"/>
 </p>
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=gabrielfavera07&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<!-- ELEGANT DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="45%">
+
+<br><br>
+
+<!-- MINIMAL CONTACT BADGES -->
+<a href="mailto:gabrielfavera@live.com">
+<img src="https://img.shields.io/badge/Email-0D0D2B?style=for-the-badge&logo=gmail&logoColor=F97316&labelColor=0D0D2B"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/5521982547599">
+<img src="https://img.shields.io/badge/WhatsApp-0D0D2B?style=for-the-badge&logo=whatsapp&logoColor=F97316&labelColor=0D0D2B"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/">
+<img src="https://img.shields.io/badge/LinkedIn-0D0D2B?style=for-the-badge&logo=linkedin&logoColor=F97316&labelColor=0D0D2B"/>
+</a>
+
+<br><br>
+
+<!-- PROFILE VIEWS - MINIMAL -->
+<img src="https://komarev.com/ghpvc/?username=gabrielfavera07&color=A78BFA&style=flat&label=Profile+Views"/>
 
 </div>
 
----
+<br>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre Mim
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-```javascript
-const gabriel = {
-    pronouns: "he" | "him",
-    location: "Rio de Janeiro, Brasil 🇧🇷",
-    role: "Mobile Developer",
-    focus: ["Flutter", "Cross-Platform", "AI Integration"],
-    currentlyLearning: "Inteligência Artificial Aplicada",
-    funFact: "Transformo café em código ☕→💻"
-};
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> &nbsp;Expertise
+
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/MOBILE-0D0D2B?style=for-the-badge&logoColor=white" height="25"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="45"/>
+<br><br>
+<sub><b>Flutter • Dart • Firebase</b></sub>
+<br>
+<sub>Cross-Platform iOS & Android</sub>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-0D0D2B?style=for-the-badge&logoColor=white" height="25"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark" height="45"/>
+<br><br>
+<sub><b>Python • PyTorch • OpenCV</b></sub>
+<br>
+<sub>Machine Learning & Automation</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/BACKEND-0D0D2B?style=for-the-badge&logoColor=white" height="25"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" height="45"/>
+<br><br>
+<sub><b>Node.js • Express • PostgreSQL</b></sub>
+<br>
+<sub>REST APIs & Databases</sub>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/FRONTEND-0D0D2B?style=for-the-badge&logoColor=white" height="25"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs&theme=dark" height="45"/>
+<br><br>
+<sub><b>React • Vue • Next.js</b></sub>
+<br>
+<sub>Modern Web Development</sub>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"> &nbsp;Analytics
+
+<br>
+
+<!-- GITHUB STATS - PREMIUM DARK THEME -->
+<a href="https://github.com/gabrielfavera07">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfavera07&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=F97316&text_color=E2E8F0&bg_color=00000000&ring_color=A78BFA&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfavera07&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=E2E8F0&bg_color=00000000"/>
+</a>
+
+<br><br>
+
+<!-- STREAK STATS - MATCHING THEME -->
+<a href="https://github.com/gabrielfavera07">
+<img src="https://streak-stats.demolab.com?user=gabrielfavera07&theme=transparent&hide_border=true&ring=A78BFA&fire=F97316&currStreakLabel=E2E8F0&sideLabels=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=6B7280"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> &nbsp;Activity
+
+<br>
+
+<!-- ACTIVITY GRAPH - PREMIUM COLORS -->
+<a href="https://github.com/gabrielfavera07">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfavera07&bg_color=00000000&color=A78BFA&line=F97316&point=E2E8F0&area_color=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> &nbsp;Experience
+
+<br>
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   ◈  Flutter Developer          Escol Contabilidade      2024 — 2025   │
+│      Cross-Platform Mobile & Backend Development                        │
+│                                                                         │
+│   ◈  Flutter Front-End          Panda Apps               2021 — 2022   │
+│      Mobile UI Development from Figma/XD                                │
+│                                                                         │
+│   ◈  IT Support Analyst         SEPLAG RJ                2024          │
+│      Automation & Process Optimization                                  │
+│                                                                         │
+│   ◈  Python/Node Developer      Oliver's Pizza           2022          │
+│      Internal Tools & Automation                                        │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</div>
 
-- 🔭 Atualmente trabalho com **Flutter, Dart & Node.js**
-- 🌱 Estudando **IA/ML com PyTorch e OpenCV**
-- 📱 Especialista em **Apps Cross-Platform iOS & Android**
-- 🤖 Apaixonado por **Automação de Processos**
-- 🎯 Objetivo: **Criar soluções mobile inovadoras**
-- 📫 Contato: **gabrielfavera@live.com**
+<br>
 
-<br clear="both"/>
-
----
-
-## 🚀 Tech Stack
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 📱 Mobile Development
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="20"> &nbsp;Currently
 
-### 🤖 AI & Automation
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+<br>
 
-### ⚙️ Backend & Databases
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td>
 
-### 🌐 Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-</p>
+**🔭 Working on** &nbsp;&nbsp;Flutter apps with AI integration
 
-### 🛠️ Tools & Others
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+</td>
+</tr>
+<tr>
+<td>
+
+**🌱 Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced ML with PyTorch
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🎯 Goal** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build innovative mobile solutions
+
+</td>
+</tr>
+<tr>
+<td>
+
+**📍 Location** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rio de Janeiro, Brazil → Open to Portugal 🇵🇹
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielfavera07&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel's GitHub Stats" /> 
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfavera07&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielfavera07&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
 
-</div>
+<!-- ELEGANT DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="45%">
 
----
+<br><br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielfavera07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielfavera07&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contributions Snake
-
-<div align="center">
-  
+<!-- SNAKE ANIMATION - DARK THEME -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake-dark.svg" />
 </picture>
 
-</div>
+<br><br>
 
----
+<!-- FOOTER QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic.&author=Gabriel%20Della%20F%C3%A1vera" width="70%"/>
 
-## 💼 Experiência
+<br><br>
 
-<div align="center">
+<!-- MINIMAL FOOTER -->
+<sub>
+<img src="https://img.shields.io/badge/Made%20with-☕%20%26%20💜-0D0D2B?style=flat&labelColor=0D0D2B"/>
+</sub>
 
-| Cargo | Empresa | Período |
-|-------|---------|---------|
-| 📱 Flutter Developer | Escol Contabilidade | 2024 - 2025 |
-| 📱 Flutter Front-End | Panda Apps | 2021 - 2022 |
-| 🖥️ Analista de Suporte | SEPLAG RJ | 2024 |
-| 🐍 Python/Node Developer | Oliver's Pizza | 2022 |
-
-</div>
-
----
-
-## 📫 Vamos Conectar!
-
-<div align="center">
-
-<a href="mailto:gabrielfavera@live.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/5521982547599">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**💬 Aberto para oportunidades em Portugal e trabalho remoto!**
+<br><br>
 
 </div>
 
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+<!-- GRADIENT FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1a1a4e,100:0D0D2B&height=120&section=footer" width="100%"/>
