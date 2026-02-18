@@ -125,9 +125,6 @@ const gabriel = {
 
 <img src="https://streak-stats.demolab.com?user=gabrielfavera07&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888" height="180"/>
 
-&nbsp;
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfavera07&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&days=365&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
