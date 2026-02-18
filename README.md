@@ -127,7 +127,7 @@ const gabriel = {
 
 &nbsp;
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfavera07&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfavera07&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&days=365&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
