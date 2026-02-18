@@ -4,7 +4,7 @@
 
 # ✦ GABRIEL DELLA FÁVERA ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Mobile+%26+Desktop+Developer" alt="Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Senior+AI+Engineer;Mobile+%26+Desktop+Developer;3D+%26+PWA+Specialist" alt="Title"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake-dark.svg" />
@@ -43,11 +43,12 @@
 
 ```js
 const gabriel = {
+    role: "Senior AI Engineer",
     location: "Rio de Janeiro, Brazil 🇧🇷",
     available: "Relocating to Portugal 🇵🇹",
-    focus: ["Mobile", "Desktop", "AI", "Automation"],
-    languages: ["Dart", "Python", "JavaScript", "TypeScript"],
-    funFact: "I turn coffee into cross-platform apps ☕→📱"
+    focus: ["AI", "Mobile", "Desktop", "3D", "PWA"],
+    stack: ["Flutter", "Python", "React", "Three.js", "Cloudflare"],
+    funFact: "I turn coffee into intelligent apps ☕→🤖"
 };
 ```
 
@@ -67,38 +68,49 @@ const gabriel = {
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://img.shields.io/badge/-MOBILE%20%26%20DESKTOP-0d1117?style=for-the-badge"/>
       <br><br>
       <img height="48" src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark"/>
       <br><br>
       <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=ffffff"/>
-      <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/PWA-0d1117?style=flat-square&logo=pwa&logoColor=ffffff"/>
       <br><br>
-      <sub>Cross-Platform Development</sub>
+      <sub>Cross-Platform & PWA</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-BACKEND-0d1117?style=for-the-badge"/>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-BACKEND%20%26%20CLOUD-0d1117?style=for-the-badge"/>
       <br><br>
-      <img height="48" src="https://skillicons.dev/icons?i=nodejs,python,postgres&theme=dark"/>
+      <img height="48" src="https://skillicons.dev/icons?i=nodejs,python,cloudflare&theme=dark"/>
       <br><br>
       <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=ffffff"/>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=ffffff"/>
       <br><br>
-      <sub>APIs & Databases</sub>
+      <sub>APIs & Cloud Services</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://img.shields.io/badge/-AI%20%26%20AUTOMATION-0d1117?style=for-the-badge"/>
       <br><br>
       <img height="48" src="https://skillicons.dev/icons?i=pytorch,opencv,python&theme=dark"/>
       <br><br>
       <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=ffffff"/>
-      <img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=probot&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/AutoHotKey-0d1117?style=flat-square&logo=autohotkey&logoColor=ffffff"/>
       <br><br>
       <sub>Machine Learning</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-3D%20%26%20FRONTEND-0d1117?style=for-the-badge"/>
+      <br><br>
+      <img height="48" src="https://skillicons.dev/icons?i=react,threejs,blender&theme=dark"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/3D-0d1117?style=flat-square&logo=blender&logoColor=ffffff"/>
+      <br><br>
+      <sub>Web, Mobile & Desktop 3D</sub>
     </td>
   </tr>
 </table>
@@ -139,11 +151,11 @@ const gabriel = {
 
 &nbsp;
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,nodejs,express,nestjs,python,pytorch,opencv&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,nodejs,python,pytorch,opencv,react,threejs&theme=dark"/>
 
 &nbsp;
 
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,postgres,docker,git,vscode,figma,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nextjs,vue,angular,postgres,cloudflare,docker,git,vscode,figma,blender&theme=dark"/>
 
 </div>
 
@@ -161,6 +173,7 @@ const gabriel = {
 
 |  | Role | Company | Period |
 |:-:|:-----|:--------|:------:|
+| 🤖 | **Senior AI Engineer** | Confidential | `2025 — Present` |
 | 💼 | **Flutter Developer** | Escol Contabilidade | `2024 — 2025` |
 | 📱 | **Flutter Front-End** | Panda Apps | `2021 — 2022` |
 | 🖥️ | **IT Support Analyst** | SEPLAG RJ | `2024` |
