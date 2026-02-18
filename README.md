@@ -17,6 +17,15 @@
 
 <br>
 
+<!-- SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake-dark.svg" />
+</picture>
+
+<br>
+
 <!-- SOCIAL BADGES -->
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfavera@live.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521982547599)
@@ -141,19 +150,6 @@ const gabriel = {
 | **2021 — 2022** | Flutter Front-End | Panda Apps |
 | **2024** | IT Support Analyst | SEPLAG RJ |
 | **2022** | Python/Node Developer | Oliver's Pizza |
-
-<br>
-
----
-
-<br>
-
-<!-- SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake-dark.svg" />
-</picture>
 
 <br>
 
