@@ -33,11 +33,11 @@
 
 </div>
 
-<br>
+&nbsp;
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br>
+&nbsp;
 
 <div align="center">
 
@@ -53,11 +53,11 @@ const gabriel = {
 
 </div>
 
-<br>
+&nbsp;
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br>
+&nbsp;
 
 <div align="center">
 
@@ -105,11 +105,11 @@ const gabriel = {
 
 </div>
 
-<br>
+&nbsp;
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br>
+&nbsp;
 
 <div align="center">
 
@@ -127,11 +127,11 @@ const gabriel = {
 
 </div>
 
-<br>
+&nbsp;
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br>
+&nbsp;
 
 <div align="center">
 
@@ -147,11 +147,11 @@ const gabriel = {
 
 </div>
 
-<br>
+&nbsp;
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br>
+&nbsp;
 
 <div align="center">
 
@@ -168,11 +168,11 @@ const gabriel = {
 
 </div>
 
-<br>
+&nbsp;
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br>
+&nbsp;
 
 <div align="center">
 
@@ -202,11 +202,11 @@ const gabriel = {
 
 </div>
 
-<br>
+&nbsp;
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br>
+&nbsp;
 
 <div align="center">
 
