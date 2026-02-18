@@ -33,9 +33,11 @@
 
 </div>
 
-&nbsp;
+<br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
+<br>
 
 <div align="center">
 
@@ -51,7 +53,11 @@ const gabriel = {
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
+<br>
 
 <div align="center">
 
@@ -99,7 +105,11 @@ const gabriel = {
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
+<br>
 
 <div align="center">
 
@@ -117,7 +127,11 @@ const gabriel = {
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
+<br>
 
 <div align="center">
 
@@ -133,7 +147,11 @@ const gabriel = {
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
+<br>
 
 <div align="center">
 
@@ -150,7 +168,11 @@ const gabriel = {
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
+<br>
 
 <div align="center">
 
@@ -180,7 +202,11 @@ const gabriel = {
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/></p>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
+<br>
 
 <div align="center">
 
