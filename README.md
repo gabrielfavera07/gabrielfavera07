@@ -2,8 +2,8 @@
 
 <br>
 
-<!-- HEADER IMAGE - DARK GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header&text=&fontSize=0" width="100%"/>
+<!-- HEADER - STARLINK GRADIENT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,25:1a1a4e,50:2d1b69,75:1a1a4e,100:0d0d2b&height=180&section=header&text=&fontSize=0" width="100%"/>
 
 <br>
 
@@ -183,7 +183,7 @@ const gabriel = {
 
 <br><br>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer" width="100%"/>
+<!-- FOOTER - STARLINK GRADIENT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,25:1a1a4e,50:2d1b69,75:1a1a4e,100:0d0d2b&height=120&section=footer" width="100%"/>
 
 </div>
