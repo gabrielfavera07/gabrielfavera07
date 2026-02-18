@@ -20,7 +20,7 @@
 <a href="https://wa.me/5521982547599">
   <img src="https://img.shields.io/badge/-WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=ffffff" />
 </a>&nbsp;
-<a href="https://linkedin.com/in/">
+<a href="https://br.linkedin.com/in/gabrielfavera">
   <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
 </a>&nbsp;
 <a href="https://github.com/gabrielfavera07">
