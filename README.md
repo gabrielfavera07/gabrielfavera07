@@ -35,7 +35,7 @@
 
 &nbsp;
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
 
 &nbsp;
 
@@ -55,7 +55,7 @@ const gabriel = {
 
 &nbsp;
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
 
 &nbsp;
 
@@ -107,7 +107,7 @@ const gabriel = {
 
 &nbsp;
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
 
 &nbsp;
 
@@ -129,7 +129,7 @@ const gabriel = {
 
 &nbsp;
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
 
 &nbsp;
 
@@ -149,7 +149,7 @@ const gabriel = {
 
 &nbsp;
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
 
 &nbsp;
 
@@ -170,7 +170,7 @@ const gabriel = {
 
 &nbsp;
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
 
 &nbsp;
 
@@ -204,7 +204,7 @@ const gabriel = {
 
 &nbsp;
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
 
 &nbsp;
 
