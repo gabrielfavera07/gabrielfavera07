@@ -129,18 +129,6 @@ const gabriel = {
 
 &nbsp;
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielfavera07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfavera07&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff"/>
-
-&nbsp;
-
-<img src="https://streak-stats.demolab.com?user=gabrielfavera07&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888" height="180"/>
-
-</div>
-
-&nbsp;
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
 
 &nbsp;
