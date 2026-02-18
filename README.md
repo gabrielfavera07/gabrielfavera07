@@ -2,15 +2,9 @@
 
 <div align="center">
 
-&nbsp;
-
 # ✦ GABRIEL DELLA FÁVERA ✦
 
-&nbsp;
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=50&lines=Mobile+%26+Desktop+Developer" alt="Title"/>
-
-&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Mobile+%26+Desktop+Developer" alt="Title"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfavera07/gabrielfavera07/output/github-snake-dark.svg" />
