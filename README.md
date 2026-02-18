@@ -129,6 +129,12 @@ const gabriel = {
 
 &nbsp;
 
+<img src="https://streak-stats.demolab.com?user=gabrielfavera07&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888" height="180"/>
+
+</div>
+
+&nbsp;
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%">
 
 &nbsp;
