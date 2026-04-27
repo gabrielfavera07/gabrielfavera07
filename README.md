@@ -48,7 +48,7 @@ const gabriel = {
     available: "Relocating to Portugal 🇵🇹",
     focus: ["AI", "Mobile", "Desktop", "3D", "PWA"],
     stack: ["Flutter", "Python", "React", "Three.js", "Cloudflare"],
-    funFact: "I turn coffee into intelligent apps ☕→🤖"
+    funFact: "I turn pizza into intelligent apps ☕→🤖"
 };
 ```
 
